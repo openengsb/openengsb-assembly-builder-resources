@@ -1,8 +1,15 @@
-openengsb-assembly-builder-resources-1.0.0 ????-??-??
+openengsb-assembly-builder-resources-1.0.0 2011-12-27
 ---------------------------------------------------
 
-bla
+The initial release of the assembly builder resources contains three maven assembly plugin descriptors; namely source, doc and manual.
 
 ### Details
-issues
+** New Feature
+    * [OPENENGSB-2485] - Add assembly descriptor for building a source distribution
+    * [OPENENGSB-2486] - Add assembly descriptor for building a doc distribution
+    * [OPENENGSB-2487] - Add assembly descriptor for building a manual distribution
+
+** Task
+    * [OPENENGSB-2481] - Release assembly-builder-resources 1.0.0
+    * [OPENENGSB-2484] - Create initial project
 
