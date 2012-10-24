@@ -38,7 +38,7 @@
 
   <groupId>org.openengsb</groupId>
   <artifactId>openengsb-assembly-builder-resources</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2-SNAPSHOT</version>
 
   <name>OpenEngSB Assembly Builder Resources</name>
 
