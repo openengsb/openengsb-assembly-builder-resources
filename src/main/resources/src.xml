@@ -35,6 +35,7 @@
         <exclude>**/.settings/**</exclude>
         <exclude>**/.project/**</exclude>
         <exclude>**/.classpath/**</exclude>
+        <exclude>**/.idea/**</exclude>
       </excludes>
     </fileSet>
   </fileSets>
